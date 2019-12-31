@@ -1,2 +1,2 @@
 # Fundamentos-de-Android
-Curso
+Curso sobre fundamentos de Android
